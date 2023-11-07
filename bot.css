@@ -1,0 +1,237 @@
+#container {
+    border-radius: 10px;
+    border-width: 100px;
+    width: 20%;
+    overflow: hidden;
+    border-right: 100px;
+    border: 5px solid aquamarine;
+    position: relative;
+    left: 40px;
+    bottom: 20px;
+    top: 10px;
+
+
+}
+#container #imagee{
+    right: 100px;
+    left: 40px;
+    position: relative;
+    border-radius: 10px;
+}
+#container #imageee{
+    right: 20px;
+    left: 10px;
+    position: relative;
+    border-radius: 10px;
+}
+#f{
+    display: flex;
+    left: 80px;
+    position: relative;
+    bottom: 40px;
+    font-size: large;
+}
+#container #img {
+    right: 20px;
+    left: 10px;
+    position: relative;
+    border-radius: 10px;
+}
+#heee{
+    width: 900px;
+    color: white;
+    border-width: 3px;
+     opacity: 100%;
+     position: relative;
+     border-right: 100px;
+}
+#f1{
+    display: flex;
+    left: 70px;
+    position: relative;
+    bottom: 40px;
+    font-size: large;
+}
+#container #imgg {
+    right: 20px;
+    left: 10px;
+    position: relative;
+    border-radius: 10px;
+}
+#f2 {
+    display: flex;
+    left: 70px;
+    position: relative;
+    bottom: 40px;
+    font-size: large;
+}
+#ne{
+    position: relative;
+    left: 400px;
+    bottom: 1850px;
+}
+#imggg {
+    border-radius: 10px;
+    position: relative;
+    width: 160px;
+    top: 30px;
+}
+#f3{
+    position: relative;
+    left: 140px;
+    bottom: 70px;
+    font-size: x-large;
+}
+#heeee {
+    width: 900px;
+    color: black;
+    border-width: 3px;
+    opacity: 100%;
+    position: relative;
+    border-right: 100px;
+    bottom: 50px;
+}
+#f4{
+    position: relative;
+    font-size: larger;
+    bottom: 50px;
+}
+#imgggg {
+    border-radius: 10px;
+        position: relative;
+        width: 160px;
+        bottom: 50px;
+}
+#f5 {
+    position: relative;
+        left: 160px;
+        bottom: 150px;
+        font-size: x-large;
+}
+#heeeee {
+    width: 900px;
+    color: black;
+    border-width: 3px;
+    opacity: 100%;
+    position: relative;
+    border-right: 100px;
+    bottom: 120px;
+}
+#box {
+    display: flex;
+    flex-flow: row wrap;
+}
+#box1{
+    position: relative;
+    bottom: 100px;
+    border: 5px solid black;
+    width: 400px;
+    border-width: -20px;
+    box-shadow: 5px 10px;
+
+}
+#box2 {
+    border: 5px solid black;
+    width: 400px;
+    border-width: -20px;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+    box-shadow: 5px 10px;
+
+}
+#box3 {
+    position: relative;
+    border: 5px solid black;
+    width: 400px;
+    border-width: 10%;
+    bottom: 0px;
+    right: 300px;
+    box-shadow: 5px 10px;
+
+}
+#box4 {
+    position: relative;
+    bottom: 60px;
+    border: 5px solid black;
+    width: 400px;
+    border-width: -20px;
+    box-shadow: 5px 10px;
+
+}
+#f6{
+    position: relative;
+    left: 100px;
+}
+#f7 {
+    position: relative;
+    left: 100px;
+}
+#f8 {
+    position: relative;
+    left: 100px;
+}
+#f9 {
+    position: relative;
+    left: 100px;
+}
+#imggggg {
+    border-radius: 40px;
+    position: relative;
+    width: 120px;
+    top: 30px;
+    left: 10px;
+}
+#f10 {
+    position: relative;
+    left: 160px;
+    bottom: 50px;
+    font-size: x-large;
+}
+#heeeeee {
+    width: 900px;
+    color: black;
+    border-width: 3px;
+    opacity: 100%;
+    position: relative;
+    border-right: 100px;
+    top: 10px;
+}
+#ac{
+    position: relative;
+    width: 400px;
+    top: 60px;
+}
+#f11{
+           position: relative;
+            left: 450px;
+            bottom: 100px;
+            font-size: xx-large;
+}
+#f12 {
+    position: relative;
+    right: 20px;
+    bottom: 100px;
+    font-size: xx-large;
+}
+#ac1 {
+    position: relative;
+    width: 500px;
+    top: 60px;
+    left:400px;
+}
+#ac2 {
+    position: relative;
+    width: 400px;
+    top: 60px;
+    right: 10px;
+}
+#f13 {
+    position: relative;
+    left: 450px;
+    bottom: 100px;
+    font-size: xx-large;
+}
+.sword{
+    width: 100px;
+}
